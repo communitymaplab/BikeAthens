@@ -1,4 +1,4 @@
-# Map of Cycling by Suitability- Athens, GA
+# Map of Cycling Routes by Suitability- Athens, GA
 ### UGA's Community Mapping Lab in partnership with the BikeAthens group
 
 This map details cycling suitability for the most heavily trafficked streets in Athens, GA. 
